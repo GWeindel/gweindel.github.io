@@ -12,7 +12,7 @@ role: Post-doctoral researcher
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Bernoulli institute for mathematics computer science and artificial intelligence, University of Groningen, US Air Force Grant (Principal Investigators - Jelmer Borst & Leendert van Maanen)
-  - name: Department of Experimental psychology, Utrecht University, Marie Slodowska Curie Actions postdoctoral Grant
+  - name: Department of Experimental psychology, Utrecht University, Marie Slodowska Curie Actions postdoctoral Grant (supervisor - Leendert van Maanen)
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests is mental chronometry, the time taken by information processing units in our brain. To study these times I rely on cognitive models of behavior that I combine with neural data such as electro-encephalography. 
@@ -71,4 +71,4 @@ My Ph.D. focused on how faithfully can mathematical models of behaviour capture 
 
 My current line of research adresses this limitation in two separate positions, one at the Bernoulli Institute of Groningen University (a funding from the United State Air Force granted to Jelmer Borst and Leendert van Maanen) and another at the Department of experimental psychology of Utrecht University (funded by the European commission under the Marie Slodowska Curie Postdoctoral fellowship). The work in Groningen is centered around the use of mathematical models of cognition and machine learning on neural data to describe how humans make sequential decisions. The work at Utrecht University is about how even in the case of simple decisions, humans rely on several strategies, and therefore, several generative models of behavior.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
