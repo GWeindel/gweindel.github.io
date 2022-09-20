@@ -28,7 +28,7 @@ education:
       year: 2016
     - course: BSc in Psychology
       institution: Aix-Marseille University
-      year: 2012
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
