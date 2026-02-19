@@ -11,9 +11,8 @@ role: Post-doctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Bernoulli institute for mathematics computer science and artificial intelligence, University of Groningen, US Air Force Grant (Principal Investigators - Jelmer Borst & Leendert van Maanen)
-  - name: Department of Experimental psychology, Utrecht University, Marie Slodowska Curie Actions postdoctoral Grant (supervisor - Leendert van Maanen)
-
+  - name: Institut de Psychologie, Lausanne (VD) Switzerland
+  
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests is mental chronometry, the time taken by information processing units in our brain. To study these times I rely on cognitive models of behavior that I combine with neural data such as electro-encephalography. 
 
@@ -38,9 +37,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: bluesky
     icon_pack: fab
-    link: https://twitter.com/GWeindel
+    link: https://bsky.app/profile/gweindel.bsky.social
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=o_fW4gIAAAAJ&hl=fr&oi=ao
@@ -50,13 +49,16 @@ social:
   - icon: linkedin
     icon_pack: fabgcushen
     link: https://www.linkedin.com/in/gabriel-weindel
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-7592-1686
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'gabriel.weindel@gmail.com'
@@ -65,10 +67,8 @@ email: 'gabriel.weindel@gmail.com'
 highlight_name: true
 ---
 
-I am a Postdoctoral researcher both at the Bernoulli institute of the University of Groningen and at the Department of Experimental Psychology at Utrecht University.
+I am a Postdoctoral researcher at the Institut de psychologie of Lausanne University. My fundamental research interest is mental chronometry, i.e. the time required for the completion of information processing units in the brain. 
+This topic is classically studied by using mathematical models of cognition to infer, from the overt behavior, the optimal or best-fitting theory. 
 
-My Ph.D. focused on how faithfully can mathematical models of behaviour capture neural dynamics ongoing during decision-making in humans. This work showed that these models do describe accurately actual information processing units in the brain but only in restrained conditions such as speeded simple decisions. 
-
-My current line of research adresses this limitation in two separate positions, one at the Bernoulli Institute of Groningen University (a funding from the United State Air Force granted to Jelmer Borst and Leendert van Maanen) and another at the Department of experimental psychology of Utrecht University (funded by the European commission under the Marie Slodowska Curie Postdoctoral fellowship). The work in Groningen is centered around the use of mathematical models of cognition and machine learning on neural data to describe how humans make sequential decisions. The work at Utrecht University is about how even in the case of simple decisions, humans rely on several strategies, and therefore, several generative models of behavior.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My Ph.D. in Aix-Marseille university was focused on how faithfully can mathematical models of behavior capture neural dynamics ongoing during decision-making in humans. This work showed that these models do describe accurately actual information processing units in the brain but only in restrained conditions such as speeded simple decisions. 
+My current line of research addresses this limitation by augmenting cognitive models with electrophysiological measurements and testing predictions from this joint modelling approach on experimental data.
